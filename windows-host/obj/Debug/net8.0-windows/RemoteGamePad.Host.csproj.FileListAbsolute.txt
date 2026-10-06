@@ -1,0 +1,17 @@
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\obj\Debug\net8.0-windows\RemoteGamePad.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\obj\Debug\net8.0-windows\RemoteGamePad.Host.AssemblyInfoInputs.cache
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\obj\Debug\net8.0-windows\RemoteGamePad.Host.AssemblyInfo.cs
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\obj\Debug\net8.0-windows\RemoteGamePad.Host.csproj.CoreCompileInputs.cache
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\bin\Debug\net8.0-windows\RemoteGamePad.Host.exe
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\bin\Debug\net8.0-windows\RemoteGamePad.Host.deps.json
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\bin\Debug\net8.0-windows\RemoteGamePad.Host.runtimeconfig.json
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\bin\Debug\net8.0-windows\RemoteGamePad.Host.dll
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\bin\Debug\net8.0-windows\RemoteGamePad.Host.pdb
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\obj\Debug\net8.0-windows\RemoteGamePad.Host.dll
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\obj\Debug\net8.0-windows\refint\RemoteGamePad.Host.dll
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\obj\Debug\net8.0-windows\RemoteGamePad.Host.pdb
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\obj\Debug\net8.0-windows\RemoteGamePad.Host.genruntimeconfig.cache
+C:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\obj\Debug\net8.0-windows\ref\RemoteGamePad.Host.dll
+c:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\bin\Debug\net8.0-windows\QRCoder.dll
+c:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\obj\Debug\net8.0-windows\RemoteGamePad.Host.csproj.AssemblyReference.cache
+c:\Users\vikin\OneDrive\Documents\java\Remote GamePad\windows-host\obj\Debug\net8.0-windows\RemoteGa.61D6AAE2.Up2Date

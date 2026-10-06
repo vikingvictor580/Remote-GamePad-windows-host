@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "452Hci8YMEk=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\vikin\\OneDrive\\Documents\\java\\Remote GamePad\\windows-host\\RemoteGamePad.Host.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\vikin\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\vikin\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\vikin\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\vikin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\vikin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\vikin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
